@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors = ["Pat Nakajima"]
   s.date = %q{2009-07-10}
   s.email = %q{patnakajima@gmail.com}
-  s.files = ["lib/optimus_prime/command.rb", "lib/optimus_prime/optor.rb", "lib/optimus_prime.rb"]
+  s.files = ["lib/optimus_prime/command.rb", "lib/optimus_prime/optor.rb", "lib/optimus_prime.rb", "lib/optimus_prime/core_ext/object.rb"]
   s.homepage = %q{http://github.com/nakajima/optimus-prime}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.3}
